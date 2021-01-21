@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Pluto Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pluto Thin'), url('PlutoThin.ttf') format('tff');
+    }
+
+@font-face {
+    font-family: 'Pluto Extra Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pluto Extra Light'), url('PlutoExtraLight.ttf') format('tff');
+    }
+
+@font-face {
+    font-family: 'Pluto Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pluto Light'), url('PlutoLight.ttf') format('tff');
+    }
+
+@font-face {
+    font-family: 'Pluto Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pluto Regular'), url('PlutoRegular.ttf') format('tff');
+    }
+    
+@font-face {
+    font-family: 'Pluto Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pluto Medium'), url('PlutoMedium.ttf') format('tff');
+    }
+
+@font-face {
+    font-family: 'Pluto Heavy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pluto Heavy'), url('PlutoHeavy.ttf') format('tff');
+    }
+    
